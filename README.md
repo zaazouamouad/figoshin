@@ -7,7 +7,9 @@ A professional CLI tool for RF analysis &amp; jamming. Features a massive device
 
 
 
+## Installation
 
+```bash
 git clone https://github.com/zaazouamouad/figoshin.git
 cd figoshin
 pip install -r requirements.txt
