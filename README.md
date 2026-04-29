@@ -26,17 +26,16 @@ It provides advanced features for signal inspection, device tracking, and spectr
 ---
 
 📸 Screenshot
+<img width="654" height="858" alt="17774346598787108279686870092320" src="https://github.com/user-attachments/assets/aa74495f-846a-4a3a-94f1-806301a05eab" />
 
-<p align="center">
-  <img src="images/screenshot.png" width="700"/>
-</p>---
+## ⚙️ Installation
 
-⚙️ Installation
-
+```bash
 git clone https://github.com/zaazouamouad/figoshin.git
 cd figoshin
 pip install -r requirements.txt
 python3 figoshin.py
+
 
 ---
 
