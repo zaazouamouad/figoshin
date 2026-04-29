@@ -1,8 +1,6 @@
 ⚡ Figoshin
 
-<p align="center">
-  <img src="images/screenshot.png" width="700"/>
-</p>«🧠 Advanced RF Analysis CLI Tool»
+🧠 Advanced RF Analysis CLI Tool
 
 ---
 
@@ -29,12 +27,15 @@ It provides advanced features for signal inspection, device tracking, and spectr
 
 📸 Screenshot
 
-"Figoshin Interface" (images/screenshot.png)
-
----
+<p align="center">
+  <img src="images/screenshot.png" width="700"/>
+</p>---
 
 ⚙️ Installation
 
+## ⚙️ Installation
+
+```bash
 git clone https://github.com/zaazouamouad/figoshin.git
 cd figoshin
 pip install -r requirements.txt
