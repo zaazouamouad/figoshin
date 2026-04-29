@@ -33,9 +33,6 @@ It provides advanced features for signal inspection, device tracking, and spectr
 
 ⚙️ Installation
 
-## ⚙️ Installation
-
-```bash
 git clone https://github.com/zaazouamouad/figoshin.git
 cd figoshin
 pip install -r requirements.txt
