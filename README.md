@@ -1,16 +1,88 @@
-# figoshin
-A professional CLI tool for RF analysis &amp; jamming. Features a massive device database (military/civilian), advanced jamming (single, multi, auto), spectrum analyzer, signal generator, protocol analysis, SDR hardware support (HackRF, RTL-SDR, etc.), auto-detection, logging, and flexible settings. Clean colored terminal UI.
+⚡ Figoshin
 
+<p align="center">
+  <img src="images/screenshot.png" width="700"/>
+</p>«🧠 Advanced RF Analysis CLI Tool»
 
+---
 
+🚀 Overview
 
+Figoshin is a powerful command-line tool designed for RF (Radio Frequency) analysis and monitoring.
+It provides advanced features for signal inspection, device tracking, and spectrum analysis.
 
+---
 
+✨ Features
 
-## Installation
+- 📡 Spectrum Analyzer
+- 📊 Signal Monitoring
+- 🗂️ Massive Device Database (Civilian & Military)
+- ⚙️ Signal Generator
+- 🔍 Protocol Analysis
+- 🤖 Auto Detection
+- 📁 Logging System
+- 🎛️ Flexible Settings
+- 🖥️ Clean Colored CLI Interface
 
-```bash
+---
+
+📸 Screenshot
+
+"Figoshin Interface" (images/screenshot.png)
+
+---
+
+⚙️ Installation
+
 git clone https://github.com/zaazouamouad/figoshin.git
 cd figoshin
 pip install -r requirements.txt
 python3 figoshin.py
+
+---
+
+📂 Project Structure
+
+figoshin/
+│── figoshin.py
+│── requirements.txt
+│── README.md
+└── images/
+    └── screenshot.png
+
+---
+
+🧠 Usage
+
+Run the tool:
+
+python3 figoshin.py
+
+Then choose from the menu:
+
+- Dashboard
+- Device Database
+- Spectrum Analyzer
+- Signal Generator
+- Advanced Analysis
+- Hardware Control
+
+---
+
+⚠️ Disclaimer
+
+This project is for educational and research purposes only.
+Do not use it for illegal activities.
+
+---
+
+👨‍💻 Author
+
+Developed by zaazouamouad
+
+---
+
+⭐ Support
+
+If you like this project, give it a ⭐ on GitHub!
